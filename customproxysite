@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ai.google.dev",
+        "aida.googleapis.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "bitbrowser",
+        "openaicom"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ai.com",
+        "algolia.net"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "104.238.150.13/32",
+        "2001:19f0:7001:1149:5400:4ff:feac:a0b3/128"
+      ]
+    }
+  ],
+  "version": 1
+}
